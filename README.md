@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @rhisehl
-- 👀 I’m interested in learning more about coding and data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on entry-level projects
-- 📫 Contact me at rhisehl@gmail.com
+Multidisciplinary, driven Data Analyst with an insatiable intellectual curiosity for determining hidden trends in large datasets. Adept at supervising and collaborating with diverse teams to effectively parse down concepts into audience-specific formats. Unique macro Social Work background with the ability to advocate effectively and empathetically.
+
 
 <!---
 rhisehl/rhisehl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
