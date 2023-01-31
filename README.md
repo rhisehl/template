@@ -1,4 +1,3 @@
-Multidisciplinary, driven Data Analyst with an insatiable intellectual curiosity for determining hidden trends in large datasets. Adept at supervising and collaborating with diverse teams to effectively parse down concepts into audience-specific formats. Unique macro Social Work background with the ability to advocate effectively and empathetically.
 
 
 <!---
